@@ -1,0 +1,51 @@
+body {
+  font-family: Verdana, Geneva, sans-serif;
+  font-size: 10pt;
+}
+
+.list {
+  border-bottom: solid;
+  border-width: 1px;
+  border-color: #FF6600;
+}
+
+.navbar {
+  background-color: #FF6600;
+  margin: 10px 0px 0px 0px;
+  padding: 0px;
+  color: black;
+}
+
+.list {
+  background-color: #F6F6EF;
+  color: gray;
+  padding: 10px;
+}
+
+a, a:hover{
+  text-decoration: none;
+  color: black;
+}
+
+#title {
+  font-weight: bold;
+}
+
+img {
+  border-color: white;
+  border-style: solid;
+  border-width: 1px;
+}
+
+footer {
+  background-color: #F6F6EF;
+  padding: 15px;
+  font-size: 8pt;
+  font-family: Verdana, Geneva, sans-serif;
+  text-align: center;
+}
+
+.search {
+  font-size: 10pt !important;
+  color: grey !important;
+}
